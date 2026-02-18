@@ -115,18 +115,19 @@ My goal is to merge **logic + creativity + intelligence** in every project.
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="mailto:dhanush.a2424@gmail.com">
-<img src="https://img.shields.io/badge/Email-Dhanush-red?style=for-the-badge&logo=gmail">
-</a>
+  <a href="mailto:dhanush.a2424@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-<a href="https://linkedin.com/in/dhanush0254/">
-<img src="https://img.shields.io/badge/LinkedIn-Dhanush-blue?style=for-the-badge&logo=linkedin">
-</a>
+  <a href="https://linkedin.com/in/dhanush0254/">
+    <img src="https://img.shields.io/badge/LinkedIn-Dhanush%20A-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-<a href="https://github.com/dhanush0254">
-<img src="https://img.shields.io/badge/GitHub-Dhanush-black?style=for-the-badge&logo=github">
-</a>
+  <a href="https://github.com/dhanush0254">
+    <img src="https://img.shields.io/badge/GitHub-Dhanush%20A-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
