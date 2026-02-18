@@ -60,19 +60,14 @@ My goal is to merge **logic + creativity + intelligence** in every project.
 </p>
 
 ### ☁ Platforms & Certifications
-<p >
-  <!-- Official Salesforce Logo -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Salesforce.com_logo.svg" 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Salesforce.com_logo.svg"
        alt="Salesforce Logo" height="60" style="margin: 15px;" />
 
-  <!-- NxtWave Official SVG Logo (Blue) -->
-  <img src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Nxtwave-blue-logo.svg" 
-       alt="NxtWave Logo" height="60" style="margin: 15px;" />
-
-  <!-- Optional: DSA Logo -->
-  <img src="https://learning.ccbp.in/images/DSA_logo.png" 
+  <img src="https://learning.ccbp.in/images/DSA_logo.png"
        alt="DSA Logo" height="60" style="margin: 15px;" />
 </p>
+
 
 ---
 
