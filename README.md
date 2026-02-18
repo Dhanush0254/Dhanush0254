@@ -60,7 +60,7 @@ My goal is to merge **logic + creativity + intelligence** in every project.
 </p>
 
 ### ☁ Platforms & Certifications
-<p align="center">
+<p >
   <!-- Official Salesforce Logo -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Salesforce.com_logo.svg" 
        alt="Salesforce Logo" height="60" style="margin: 15px;" />
