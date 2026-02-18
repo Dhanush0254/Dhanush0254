@@ -86,9 +86,10 @@ My goal is to merge **logic + creativity + intelligence** in every project.
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dhanush0254&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush0254&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats-8no0.onrender.com/api?username=dhanush0254&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats-8no0.onrender.com/api/top-langs/?username=dhanush0254&layout=compact&theme=tokyonight" height="170" />
 </p>
+
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=dhanush0254&theme=tokyonight"/>
