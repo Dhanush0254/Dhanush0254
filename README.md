@@ -1,58 +1,87 @@
-# Hi there, I'm Dhanush A! 👋
+<h1 align="center">Hi 👋, I'm Dhanush A</h1>
+<h3 align="center">🚀 Web Developer • 🎮 Game Developer • 🤖 Data Science Enthusiast</h3>
 
-### 👨‍💻 Web & Game Developer | Data Science Enthusiast
-
-I am a **B.Tech Computer Science and Engineering** student and a **Certified Salesforce Agentforce Specialist** passionate about solving real-world problems through code. My work bridges the gap between interactive development and intelligent data systems, ranging from full-stack applications to machine learning models.
-
-Currently, I am an **Intern at Glynac**, gaining professional experience while continuing to build personal projects that leverage AI and modern web frameworks.
-
----
-
-### 🚀 **Overview & Highlights**
-
-- 🎓 **Education:** Pursuing B.Tech in Computer Science & Engineering.
-- 🏆 **Certifications:** Certified Salesforce Agentforce Specialist.
-- 🔭 **I’m currently working on:**
-  - **ScanFeast:** A full-stack restaurant management application.
-  - **Medical-AI:** A health diagnostics platform using OCR and ML to predict disease risks.
-- 🌱 **I’m currently learning:** Advanced Data Science techniques and Next.js for scalable web apps.
-- 🎮 **Fun Fact:** I'm a huge fan of the *Shadow Fight* series and love exploring game development mechanics!
+<p align="center">
+  Turning Ideas into Scalable Applications & Intelligent Systems
+</p>
 
 ---
 
-### 🛠 **Tech Stack**
+## 👨‍💻 About Me
 
-**Languages & Frameworks:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+🎓 **B.Tech – Computer Science & Engineering Student**  
+🏅 **Certified Salesforce Agentforce Specialist**  
+💼 **Intern @ Glynac** – Working on real-world production projects  
+🧠 Passionate about **AI, Full-Stack Development, and Game Mechanics**
 
-**Tools & Platforms:**
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+I enjoy building **interactive web platforms**, **machine learning systems**, and **automation tools** that solve practical problems. My goal is to blend **design, logic, and intelligence** into every project I create.
 
 ---
 
-### 📂 **Featured Projects**
+## 🚀 Current Focus
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Medical-AI](https://github.com/dhanush0254/Medical-AI)** | Intelligent diagnostics platform using OCR & ML to predict risks for Diabetes & Heart Disease. | Python, ML, OCR |
-| **[GradeCast-AI](https://github.com/dhanush0254/GradeCast-AI)** | A Flask ML app that forecasts student academic success and pass probability. | Python, Flask, ML |
-| **NeuroLearn OS** | A smart learning platform project focused on adaptive education. | *In Development* |
-
----
-
-### 📊 **GitHub Stats**
-
-![Dhanush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhanush0254&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush0254&layout=compact&theme=radical)
+- 🔭 Building **ScanFeast** – Smart Restaurant Management Platform  
+- 🧪 Developing **Medical-AI** – OCR + ML Disease Prediction System  
+- 🌱 Learning **Advanced Data Science**, **Next.js**, and **System Design**  
+- 🎮 Exploring **Game Physics & Combat Mechanics**
 
 ---
 
-<div align="center">
-  <p>📫 How to reach me: <a href="mailto:your-email@example.com">Email Me</a> | <a href="https://linkedin.com/in/your-linkedin">LinkedIn</a></p>
-</div>
+## 🛠 Tech Stack
+
+### Languages & Frameworks
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,nextjs,flask,css,html" />
+</p>
+
+### Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,salesforce" />
+</p>
+
+---
+
+## 📂 Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|------|
+| **Medical-AI** | AI health diagnostics platform using OCR + ML to predict Diabetes & Heart Risk | Python • ML • OCR |
+| **GradeCast-AI** | ML web app predicting student performance & pass probability | Flask • Python • ML |
+| **ScanFeast** | Full-stack smart restaurant & QR-based ordering system | React • Node • DB |
+| **NeuroLearn OS** | Adaptive AI learning platform (In Progress) | AI • EdTech |
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dhanush0254&show_icons=true&theme=tokyonight" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush0254&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=dhanush0254&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 Achievements & Certifications
+
+- Salesforce **Agentforce Specialist**
+- Multiple ML & Full-Stack Personal Projects
+- Active Open-Source Contributor (Growing 🚀)
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Dhanush-red?style=for-the-badge&logo=gmail"></a>
+<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Dhanush-blue?style=for-the-badge&logo=linkedin"></a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ *“Code. Learn. Build. Repeat.”* ⭐
+</p>
