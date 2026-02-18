@@ -61,8 +61,9 @@ My goal is to merge **logic + creativity + intelligence** in every project.
 
 ### ☁ Platforms & Certifications
 <p>
-<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
-<img src="https://img.shields.io/badge/NxtWave-FF6F00?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+<img src="https://www.salesforce.com/news/wp-content/uploads/sites/3/2024/02/Salesforce-logo.jpg?w=1024&h=576" alt="Salesforce Logo" height="60" style="margin: 10px;" />
+  <img src="https://cdn.brandfetch.io/idS_zUY1vu/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1768984532644" alt="NxtWave Logo" height="60" style="margin: 10px;" />
+
 </p>
 
 ---
