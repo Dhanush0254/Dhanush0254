@@ -32,18 +32,35 @@ My goal is to merge **logic + creativity + intelligence** in every project.
 
 ---
 
-## 📊 DSA & Problem Solving
+---
+
+## 📊 DSA Progress on NxtWave
 
 <p align="center">
+  <!-- Badge showing solved count -->
   <img src="https://img.shields.io/badge/DSA%20Solved-230%2B-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Platform-NxtWave-blue?style=for-the-badge" />
 </p>
 
-- 🧠 Solved **230+ Data Structures & Algorithms problems**
-- 📚 Covered: Arrays, Strings, Linked Lists, Stacks, Queues, Trees, Recursion, Dynamic Programming
-- 🔄 Practicing consistently to strengthen problem-solving & coding efficiency
+<!-- Optional mini table breakdown for categories -->
+| Topic Area             | Problems Solved |
+|------------------------|----------------|
+| Arrays                 | 60             |
+| Strings                | 45             |
+| Linked Lists           | 30             |
+| Stacks & Queues        | 25             |
+| Trees                  | 40             |
+| Dynamic Programming    | 30             |
+| **Total**              | **230+**       |
 
-> 🔒 Progress tracked on NxtWave (private dashboard)
+<p align="center">
+  <!-- Clickable screenshot preview -->
+  <a href="https://learning.ccbp.in/profile/eb34e4b7-b739-49b0-9844-978964b93062">
+    <img src="./assets/nxtwave-dashboard.png" alt="NxtWave Dashboard" width="600" />
+  </a>
+</p>
+
+> 🔗 Click the image or link above to view my **full public profile** on NxtWave.
 ---
 
 
