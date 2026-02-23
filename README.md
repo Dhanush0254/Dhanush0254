@@ -193,4 +193,4 @@ I love analyzing **game combat systems** and recreating them using physics engin
 </p>
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/Dhanush0254/Dhanush0254/output/github-contribution-grid-snake.svg)
+![Snake animation](./assets/github-snake.svg)
