@@ -191,6 +191,3 @@ I love analyzing **game combat systems** and recreating them using physics engin
 <p align="center">
   ⭐ <b>“Code. Learn. Build. Repeat.”</b> ⭐
 </p>
-## 🐍 Contribution Snake
-
-![Snake animation](./assets/github-snake.svg)
