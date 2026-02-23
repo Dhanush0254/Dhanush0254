@@ -2,26 +2,40 @@ name: GitHub Snake
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # daily at midnight UTC
+    - cron: '0 0 * * *'  # runs daily at midnight UTC
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
           node-version: '18'
 
-      - name: Generate Snake SVG via npx
+      - name: Install snake generator
+        run: |
+          mkdir snake
+          cd snake
+          npm init -y
+          npm install git+https://github.com/Ashutosh00710/github-contribution-grid-snake.git
+
+      - name: Generate snake SVG
+        run: |
+          cd snake
+          node node_modules/github-contribution-grid-snake/index.js -u Dhanush0254
+
+      - name: Move SVG to assets
         run: |
           mkdir -p assets
-          npx github-contribution-grid-snake -u Dhanush0254 -o ./assets/github-snake.svg
+          mv snake/output/github-contribution-grid-snake.svg assets/github-snake.svg
 
-      - name: Commit & Push
+      - name: Commit and push changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
