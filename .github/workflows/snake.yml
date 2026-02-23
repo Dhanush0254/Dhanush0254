@@ -9,24 +9,36 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # Checkout your repo first
       - uses: actions/checkout@v3
 
+      # Setup Node.js
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
           node-version: '18'
 
+      # Clone the snake generator using GitHub token
       - name: Clone Snake Generator
         run: |
           git clone https://github.com/Ashutosh00710/github-contribution-grid-snake.git snake
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Install dependencies and generate snake SVG
+      - name: Generate Snake SVG
+        run: |
           cd snake
           npm install
           node index.js -u Dhanush0254
 
+      # Move the SVG to assets
       - name: Move SVG to assets
         run: |
-          mv snake/output/github-contribution-grid-snake.svg ../assets/github-snake.svg
+          mkdir -p assets
+          mv snake/output/github-contribution-grid-snake.svg ./assets/github-snake.svg
 
+      # Commit & push changes
       - name: Commit and Push
         run: |
           git config --global user.name "github-actions"
