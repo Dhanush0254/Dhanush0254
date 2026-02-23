@@ -33,25 +33,43 @@ My goal is to merge **logic + creativity + intelligence** in every project.
 ---
 
 ---
+---
 
-## 📊 DSA Progress on NxtWave
+## 📊 DSA & Problem Solving on NxtWave
 
 <p align="center">
-  <!-- Badge showing solved count -->
-  <img src="https://img.shields.io/badge/DSA%20Solved-230%2B-brightgreen?style=for-the-badge" />
+  <!-- Dynamic-looking badges -->
+  <img src="https://img.shields.io/badge/DSA%20Solved-234%2B-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Platform-NxtWave-blue?style=for-the-badge" />
 </p>
 
-<!-- Optional mini table breakdown for categories -->
+### 🧩 Topic-wise Breakdown
 | Topic Area             | Problems Solved |
 |------------------------|----------------|
-| Arrays                 | 60             |
-| Strings                | 45             |
-| Linked Lists           | 30             |
-| Stacks & Queues        | 25             |
-| Trees                  | 40             |
-| Dynamic Programming    | 30             |
-| **Total**              | **230+**       |
+| Arrays                 | 80             |
+| Strings                | 19             |
+| Recursion              | 29             |
+| Linked Lists           | 15             |
+| Stacks & Queues        | 12             |
+| Sliding Window / Two Pointers | 23      |
+| Hash Table             | 13             |
+| Sorting                | 23             |
+| Dynamic Programming    | 15             |
+| Binary Search          | 28             |
+| Heaps                  | 7              |
+| Greedy Algorithms      | 10             |
+| Trees & Binary Tree    | 5              |
+| Graphs & BFS           | 2              |
+| Bit Manipulation       | 7              |
+| Design & Simulation    | 4              |
+| **Total Problems Solved** | **234+**   |
+
+### 📊 Difficulty Breakdown
+| Difficulty | Solved | Total |
+|------------|-------|-------|
+| Easy       | 148   | 314   |
+| Medium     | 83    | 382   |
+| Hard       | 3     | 88    |
 
 <p align="center">
   <!-- Clickable screenshot preview -->
@@ -60,7 +78,8 @@ My goal is to merge **logic + creativity + intelligence** in every project.
   </a>
 </p>
 
-> 🔗 Click the image or link above to view my **full public profile** on NxtWave.
+> 🔗 Click the image or link above to view my **full public profile** on NxtWave.  
+> 🔄 Activity Days: 150 | Learning Progress: Phase 1 – 36%, Phase 2 – 5%, Contest Questions – 8%
 ---
 
 
