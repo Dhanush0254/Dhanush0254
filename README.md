@@ -32,6 +32,20 @@ My goal is to merge **logic + creativity + intelligence** in every project.
 
 ---
 
+## 📊 DSA & Problem Solving
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DSA%20Solved-230%2B-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Platform-NxtWave-blue?style=for-the-badge" />
+</p>
+
+- 🧠 Solved **230+ Data Structures & Algorithms problems**
+- 📚 Covered: Arrays, Strings, Linked Lists, Stacks, Queues, Trees, Recursion, Dynamic Programming
+- 🔄 Practicing consistently to strengthen problem-solving & coding efficiency
+
+> 🔒 Progress tracked on NxtWave (private dashboard)
+---
+
 
 ## 🛠 Tech Stack
 
