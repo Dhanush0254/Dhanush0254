@@ -18,18 +18,18 @@
 ## 🧑‍💻 `who am i`
 
 ```yaml
-┌─────────────────────────────────────────────────────────┐
-│                                                                   │
-│   name       :  Dhanush A                                         │
-│   role       :  Full Stack · GenAI Engineer · Game Developer      │
-│   education  :  B.Tech Computer Science & Engineering (2026)      │
-│   location   :  Hyderabad, India  🇮🇳                              │
-│   internship :  Full Stack Dev Intern @ Ament Capital             │
-│                 Feb – May 2026                                    │
-│   certified  :  Salesforce Agentforce Specialist  🎖️              │
-│   status     :  Open to Full Stack / GenAI / Backend roles  ✅    │                              
-│                                                                   │
-└─────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                 │
+│   name       :  Dhanush A                                                       │
+│   role       :  Full Stack · GenAI Engineer · Game Developer                    │
+│   education  :  B.Tech Computer Science & Engineering (2026)                    │
+│   location   :  Hyderabad, India                                                │
+│   internship :  Full Stack Dev Intern @ Ament Capital                           │
+│                 Feb – May 2026                                                  │
+│   certified  :  Salesforce Agentforce Specialist                                │
+│   status     :  Open to Full Stack / GenAI / Backend roles                      │                              
+│                                                                                 │
+└─────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 <br/>
