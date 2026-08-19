@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-dhanush0254.netlify.app-0d1117?style=for-the-badge&labelColor=238636&color=0d1117)](https://dhanush0254.netlify.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-dhanush0254.netlify.app-0d1117?style=for-the-badge&labelColor=238636&color=0d1117)](https://dhanush-a.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhanush0254)
 [![Gmail](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanush.a2424@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Dhanush0254&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Dhanush0254)
